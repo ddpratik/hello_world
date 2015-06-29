@@ -1,2 +1,9 @@
 # hello_world
-Just another repository
+=======================
+
+Hello Humans !
+
+diffbot is here,
+
+I like android and java..
+
